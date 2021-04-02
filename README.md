@@ -83,11 +83,11 @@ module.exports = {
   "name": "multiple-htmlpages",
   "version": "1.0.0",
   "description": "静态网站，多个html页面，WebPack配置",
+  "author": "fungmo",
+  "license": "MIT",
   "scripts": {
     "start": "webpack serve --config webpack.dev.js --mode development"
   },
-  "author": "fungmo",
-  "license": "MIT",
   "devDependencies": {
     "html-webpack-plugin": "^5.3.1",
     "webpack": "^5.30.0",

@@ -20,7 +20,7 @@ echo >index.js
 
 
 ```javascript
-// index.js中的内容保持空
+//index.js中的内容保持空
 //index.html中添加内容
 
 <!DOCTYPE html>
